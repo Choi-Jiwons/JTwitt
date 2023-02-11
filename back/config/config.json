@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "root",
-    "password": "0000",
-    "database": "sol-sns",
+    "username": "one",
+    "password": "0524",
+    "database": "react_jtwitt",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
